@@ -1,0 +1,6 @@
+@GreatWalks_API_HostAddress = http://localhost:5226
+
+GET {{GreatWalks_API_HostAddress}}/api/
+Accept: application/json
+
+###
