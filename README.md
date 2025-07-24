@@ -4,9 +4,7 @@
 Using the ASP .NET Core Web API, I created a very interesting REST API 
 
 ## Achievements
--  REST APIs by creating a Web API using ASP.NET Core and .NET 8
-
-- Dependency Injection and Benefits
+-  Operational CRUD REST APIs using ASP.NET Core and .NET 8
 
 - Entity Framework Core (EF Core) In ASP.NET Core Web API Project
 
@@ -100,4 +98,4 @@ Navigate to the project directory in Terminal or Command Prompt and start the ap
 dotnet run
 ```
 
-![image](https://github.com/userahmedosman/great_walks_API/asset/69698425/swagger_ui)
+![Swagger UI](./asset/swagger_ui.png)
